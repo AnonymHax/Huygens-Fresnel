@@ -59,6 +59,6 @@ O  ~ (r_total_size * s_total_size )^2 / (r_pixel_size * s_pixel_size)^2  /  NB_C
 
 To compensate for GPU lack, I use multi-core support of CPU in the script, therefore the number of core also plays a direct role in the computing time. 
 
-The necessary toolboxes which are not installed will now be displayed explicitly when running interferenceMain.m. Installing any missing toolbox is a very easy process, free under EPFL license,  which can be done by searching it’s name for each through the interface displayed by clicking on "Add-ons" in the "Home" tab of Matlab.
+The necessary toolboxes which are not installed will now be displayed explicitly when running interferenceMain.m.
 
 Note: If using a custom image for diffraction pattern, one need to be careful to use much higher definition than the final source size to have good results,
