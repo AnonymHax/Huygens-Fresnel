@@ -23,7 +23,7 @@ r_total_size = 1;            % Receiver/screen total side size (m)
 s_pixel_size = 2*10^-6;      % Source pixel size (m2)
 r_pixel_size = 5*10^-4;      % Receiver pixel size(m2)
 
-use_image = false;           % If set to 'true', will simulates image, if set to 'false', will simulate a circular hole of diameter s_total_size
+use_image = false;           % If set to 'true', will simulate image, if set to 'false', will simulate a circular hole of diameter s_total_size
 image_name = 'star.bmp';     % Simulates the specified image, in which white is the hole, and black the cover (place image in directory with sources)
 
 % Results display parameter - quantile selection of the truncated signal
