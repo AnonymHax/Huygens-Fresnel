@@ -1,5 +1,5 @@
 # Huygens-Fresnel
-Simulation of diffraction of electromagnetic waves on any configurable planar 2D surfaces, using Huygens-Fresnel principle. Project submitted for physics professor (Dr. Boero) at EPFL.
+Simulation of diffraction of electromagnetic waves on any configurable planar 2D surface, using Huygens-Fresnel principle. Project submitted for physics professor (Dr. Boero) at EPFL.
 
 This simulation uses matlab. The controllable parameters (situated in interferenceMain.m) are the wavelength of the incident light, the distance between the aperture and the wall, the density of the grid of the receiver/aperture, the troncation of the results for visibility, and finally the custom aperture.
 
